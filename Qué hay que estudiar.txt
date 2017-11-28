@@ -1,0 +1,11 @@
+que es un ordenador
+que es un sistema operativo
+que es un algoritmo
+que es un lenguaje de programacion
+que es un diagrama de flujo
+tipos de variable
+operadores aritméticos y lógicos
+and y or
+diferencia entre = y ==
+bucles de tipo while y for
+diferencia entre if de rama simple y rama compuesta

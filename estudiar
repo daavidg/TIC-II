@@ -1,0 +1,17 @@
+estudiar():
+    input=(¿Quieres saber lo que entra en el examen?)
+    if input=Sí
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=Si
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=si
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=sí
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=SI
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=SÍ
+        print"que es un ordenador, que es un sistema operativo, que es un algoritmo, que es un lenguaje de programacion, que es un diagrama de flujo, tipos de variable, operadores aritméticos y lógicos, and y or, diferencia entre = y ==, bucles de tipo while y for y diferencia entre if de rama simple y rama compuesta."
+    if input=no
+        print"Adiós"
+estudiar()

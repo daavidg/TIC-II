@@ -1,0 +1,5 @@
+def tablas():
+    print "hola", nombre
+    nombre=raw_input
+    
+tablas()
